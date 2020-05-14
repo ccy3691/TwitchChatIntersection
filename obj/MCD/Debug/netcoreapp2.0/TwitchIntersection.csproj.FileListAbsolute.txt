@@ -1,0 +1,22 @@
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\bin\MCD\Debug\netcoreapp2.0\TwitchIntersection.deps.json
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\bin\MCD\Debug\netcoreapp2.0\TwitchIntersection.runtimeconfig.json
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\bin\MCD\Debug\netcoreapp2.0\TwitchIntersection.runtimeconfig.dev.json
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\bin\MCD\Debug\netcoreapp2.0\TwitchIntersection.dll
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\bin\MCD\Debug\netcoreapp2.0\TwitchIntersection.pdb
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.csprojResolveAssemblyReference.cache
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.csproj.CoreCompileInputs.cache
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.AssemblyInfoInputs.cache
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.AssemblyInfo.cs
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.dll
+C:\Users\Chris Young\Documents\repo\TwitchChatIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.pdb
+C:\git-repo\TwitchIntersection\TwitchIntersection\bin\MCD\Debug\netcoreapp2.0\TwitchIntersection.deps.json
+C:\git-repo\TwitchIntersection\TwitchIntersection\bin\MCD\Debug\netcoreapp2.0\TwitchIntersection.runtimeconfig.json
+C:\git-repo\TwitchIntersection\TwitchIntersection\bin\MCD\Debug\netcoreapp2.0\TwitchIntersection.runtimeconfig.dev.json
+C:\git-repo\TwitchIntersection\TwitchIntersection\bin\MCD\Debug\netcoreapp2.0\TwitchIntersection.dll
+C:\git-repo\TwitchIntersection\TwitchIntersection\bin\MCD\Debug\netcoreapp2.0\TwitchIntersection.pdb
+C:\git-repo\TwitchIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.csprojResolveAssemblyReference.cache
+C:\git-repo\TwitchIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.csproj.CoreCompileInputs.cache
+C:\git-repo\TwitchIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.AssemblyInfoInputs.cache
+C:\git-repo\TwitchIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.AssemblyInfo.cs
+C:\git-repo\TwitchIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.dll
+C:\git-repo\TwitchIntersection\TwitchIntersection\obj\MCD\Debug\netcoreapp2.0\TwitchIntersection.pdb
